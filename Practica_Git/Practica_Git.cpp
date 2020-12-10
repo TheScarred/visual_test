@@ -4,7 +4,6 @@ bool on = true;
 
 float Sum(float x, float y)
 {
-    std::cout << "AAAAA";
     return 0;
 }
 
